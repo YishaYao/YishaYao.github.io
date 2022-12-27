@@ -23,7 +23,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "yisha.yao@yale.edu"}
-  - {title: Github, icon: github, url: "https://github.com/YishaYao"}
+  #- {title: Github, icon: github, url: "https://github.com/YishaYao"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
