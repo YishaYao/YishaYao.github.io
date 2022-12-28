@@ -18,9 +18,9 @@ layout: page
     Shiying Wang, Ting Li, Wei Dai, <strong>Yisha Yao</strong>, Cai Li, Tengfei Li, Hongtu Zhu, Heping Zhang </p>  
 <p> </p>
 
-<p> <a href="https://arxiv.org/abs/2011.06765">Adaptive Estimation in High-Dimensional Additive Models with Multi-Resolution Group LASSO</a> </p>
-<p> <strong>Yisha Yao</strong>, Cun-Hui Zhang <br>
-    This paper is awarded 2021 IMS Hannan Graduate Student Travel Awards.
+<p> <a href="https://arxiv.org/abs/2011.06765">Adaptive Estimation in High-Dimensional Additive Models with Multi-Resolution Group LASSO</a> <br>
+    <strong>Yisha Yao</strong>, Cun-Hui Zhang <br>
+    This paper is awarded 2021 IMS Hannan Graduate Student Travel Awards. </p>
 <p> </p>
 <hr>
 
