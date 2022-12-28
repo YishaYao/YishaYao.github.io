@@ -4,6 +4,7 @@ permalink: ""
 layout: page
 ---
 
+<hr>
 ## Invited Talks
 
 <p> <strong>Adaptive Estimation in High-Dimensional Additive Models with Multi-Resolution Group LASSO</strong> </p>
