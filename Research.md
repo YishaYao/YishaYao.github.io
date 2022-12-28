@@ -1,11 +1,11 @@
 ---
 title: 
-layout: page
+layout: default
 ---
 
 ## Preprints
 
-<p> <a href="https://arxiv.org/abs/2210.08348">A Note on Representations of <em>SL</em>n</a> <br>
+<p> <a href="https://arxiv.org/abs/2210.08348">A Note on Representations of <em>SL</em><sub>n </a> <br>
     <strong>Yisha Yao</strong> </p>
 <p> </p>
 
