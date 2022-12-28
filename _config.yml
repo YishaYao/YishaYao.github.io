@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.html", title: "Home"}
   - {file: "Research.md", title: "Research"}
   - {file: "Talks.md", title: "Talks"}
-  - {file: "Awards.html", title: "Awards"}
+  - {file: "Awards.md", title: "Awards"}
  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "yisha.yao@yale.edu"}
