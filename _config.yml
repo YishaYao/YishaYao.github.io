@@ -16,11 +16,9 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Home", icon: home}
-  - {title: "Research", file: "Research.md"}
-  - {title: "Talks", file: "Talks.md"}
-  - {title: "Awards", file: "Awards.md"}
-
+  - {file: "index.html", title: "Home"}
+  - {file: "Research.md", title: "Research"}
+ 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "yisha.yao@yale.edu"}
   #- {title: Github, icon: github, url: "https://github.com/YishaYao"}
