@@ -1,7 +1,7 @@
 ---
 title: ""
 permalink: ""
-layout: page
+layout: default
 ---
 
 ## Preprints
