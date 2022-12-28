@@ -1,59 +1,99 @@
 ---
-title: ""
-permalink: ""
-layout: default
+title: "About"
+permalink: "/about/"
+layout: page
 ---
 
-## Preprints
+## Installation
 
-<p> <a href="https://arxiv.org/abs/2210.08348">A Note on Representations of <em>SL</em><sub>n</a> <br>
-    <strong>Yisha Yao</strong> </p>
-<p> </p>
+Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
-<p> <a href="paper_sample5.pdf">Identifying Group-wise Mixtures in High-Dimensional Multi-task Learning Model with an Application in Reconstructing Brain Subnetworks</a> <br>
-    <strong>Yisha Yao</strong>, Shiying Wang, Wei Dai, Zihuan Liu, Heping Zhang </p>
-<p> </p>
- 
-<p> <a href="">Identification and Validation of Super-Variants Involving Genes CPA3, SCFD2, LNX1, MAPT, NSF, KANSL1, and WNT3 for Human White Matter Microstructure</a> <br>
-    Shiying Wang, Ting Li, Wei Dai, <strong>Yisha Yao</strong>, Cai Li, Tengfei Li, Hongtu Zhu, Heping Zhang </p>  
-<p> </p>
+## Features
 
-<p> <a href="https://arxiv.org/abs/2011.06765">Adaptive Estimation in High-Dimensional Additive Models with Multi-Resolution Group LASSO</a> <br>
-    <strong>Yisha Yao</strong>, Cun-Hui Zhang <br>
-    This paper is awarded 2021 IMS Hannan Graduate Student Travel Awards. </p>
-<p> </p>
-<hr>
+ - supports dark mode on macOS Mojave
+ - optional sidebar
+ - MathJax support
+ - no external ressources
+ - included archive page
+ - supports pagination
+ - feed generation
+ - responsive
+ - syntax highlighting
+ - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
 
-## Publications
-  
-<p> <a href="https://www.medrxiv.org/content/10.1101/2022.05.05.22274731v1.full.pdf">Deep Learning Identified Genetic Variants for COVID-19 Related Mortality among 28,097 Affected Cases in UK Biobank</a>  <em>Genetic Epidemiology</em> (minor revision) <br>
-    Zihuan Liu, Wei Dai, Shiying Wang, <strong>Yisha Yao</strong>, Heping Zhang </p> 
-<p> </p> 
+## Based on
 
-<p> <a href="https://www.sciencedirect.com/science/article/pii/S0378375822000301">Contraction of a Quasi-Bayesian Model with Shrinkage Priors in Precision Matrix Estimation</a>  <em>Journal of Statistical Planning and Inference, volume 221, December 2022</em> <br>
-   Ruoyang Zhang, <strong>Yisha Yao</strong>, Malay Ghosh </p>
-<p> </p>
+- [Hyde](https://github.com/poole/hyde)
+- [Minima](https://github.com/jekyll/minima)
+- [Lagrange](https://github.com/LeNPaul/Lagrange)
+- [Font Awesome](http://fontawesome.io/)
+- [KaTeX](https://katex.org/)
+- [Pygments](https://github.com/richleland/pygments-css)
 
-<p> <a href="https://projecteuclid.org/journals/electronic-journal-of-statistics/volume-16/issue-1/Constructing-confidence-intervals-for-the-signals-in-sparse-phase-retrieval/10.1214/21-EJS1968.full">Constructing Confidence Intervals for the Signals in Sparse Phase Retrieval</a>  <em>Electronic Journal of Statistics, January 2022</em> <br>
-    <strong>Yisha Yao</strong> </p>
-<p> </p>
+## Installation (jekyll-remote-theme method)
 
-<p> <a href="https://pubmed.ncbi.nlm.nih.gov/24100390/">Redox Balance of Mouse Medullary CD4 Single-Positive Thymocytes</a>  <em>Immunology and Cell Biology, October 2013</em> <br>
-    Rong Jin, Fei Teng, Xi Xu, <strong>Yisha Yao</strong>, Shusong Zhang, Xiuyuan Sun, Yu Zhang, Qing Ge  </p>
-<p> </p>
+You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
 
-<p> <a href="https://pubmed.ncbi.nlm.nih.gov/23888968/">Sirtuins: Nodes Connecting Aging, Metabolism and Tumorigenesis</a>  <em>Current Pharmaceutical Design, July 2013</em> <br>
-    <strong>Yisha Yao</strong>, Yang Yang, Wei-Guo Zhu </p>
-<p> </p>    
-<hr> 
+```yaml
+remote_theme: niklasbuschmann/contrast@v2.11
 
+plugins:
+  - jekyll-remote-theme
+```
 
-## Manuscripts
+Note: to enable icons you also need to copy over the `_data` folder.
 
-<p> <a href="">Extending Approximate Message Passing (AMP) Algorithm to General Gaussian Designs</a> <br>
-    <strong>Yisha Yao</strong>, Pierre Bellec, Cun-Hui Zhang </p>
-<p> </p>
+## Config
 
-<p> <a href="">Necessary and Sufficient Conditions for the Chi-Square and Normal Approximations in Large Contingency Tables</a> <br> 
-    Chong Wu, <strong>Yisha Yao</strong>, Cun-Hui Zhang </p>
-<hr> 
+Your `_config.yml` could for example look like this:
+
+```yaml
+title: "Blog Title"
+author: "Blog Author"
+description: "My personal blog about ... something"
+permalink: /:title/
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+show_excerpts: true        # show article excerpts on the home page
+show_frame: true           # adds a gray frame to the site
+show_sidebar: false        # show a sidebar instead of the usual header
+
+# Menu
+
+navigation:                # accepts {file, title, url, icon, sidebaricon}
+  - {file: "index.html"}
+  - {file: "README.md"}
+
+external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
+  - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
+  - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+
+comments:
+#  disqus_shortname: ""    # see https://disqus.com/
+#  isso_domain: ""         # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
+
+```
+
+## MathJax
+
+Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
+
+## License
+
+[public domain](http://unlicense.org/)
+
+## Screenshots
+
+![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
+
+![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
+
+![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
