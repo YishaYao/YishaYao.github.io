@@ -1,7 +1,7 @@
 ---
-layout: default
-permalink: "/about/"
 title: ""
+permalink: "/about/"
+layout: default
 ---
 
 ## Preprints
