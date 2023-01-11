@@ -24,7 +24,7 @@ layout: page
 
 ## Publications
   
-<p> <a href="https://www.medrxiv.org/content/10.1101/2022.05.05.22274731v1.full.pdf">Deep Learning Identified Genetic Variants for COVID-19 Related Mortality among 28,097 Affected Cases in UK Biobank</a>  <em>Genetic Epidemiology</em> <br>
+<p> <a href="https://www.medrxiv.org/content/10.1101/2022.05.05.22274731v1.full.pdf">Deep Learning Identified Genetic Variants for COVID-19 Related Mortality among 28,097 Affected Cases in UK Biobank</a>  <em>Genetic Epidemiology</em> (accepted) <br>
     Zihuan Liu, Wei Dai, Shiying Wang, <strong>Yisha Yao</strong>, Heping Zhang </p> 
 <p> </p> 
 
