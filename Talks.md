@@ -17,6 +17,10 @@ layout: page
 
 ## Conferences
 
+<p> <strong>Test of Independence in Large Sparse Contingency Tables</strong> <br>
+    New Researchers Conference, Oregon State University, August 2024 </p>
+<p> </p> 
+
 <p> <strong>Contraction of a Quasi-Bayesian Model with Shrinkage Priors in Precision Matrix Estimation</strong> <br>
     Workshop on Statistical Network Analysis and Beyond, New York University, August 2022 </p>
 <p> </p> 
