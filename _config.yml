@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Awards.md", title: "Awards"}
  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "yisha.yao@yale.edu"}
+  - {title: Mail, icon: envelope, url: "yy3381@columbia.edu"}
   #- {title: Github, icon: github, url: "https://github.com/YishaYao"}
 
 comments:
