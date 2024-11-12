@@ -55,7 +55,7 @@ layout: page
     <strong>Yisha Yao</strong>, Pierre Bellec, Cun-Hui Zhang </p>
 <p> </p>
 
-<p> <a href="">Necessary and Sufficient Conditions for the Chi-Square and Normal Approximations in Large Contingency Tables</a> <br> 
+<p> <a href="">Test of Independence on Large Sparse Contingency Tables</a> <br> 
     Chong Wu, <strong>Yisha Yao</strong>, Cun-Hui Zhang </p>
 <hr> 
 
