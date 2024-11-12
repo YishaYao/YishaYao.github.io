@@ -9,13 +9,9 @@ layout: page
 <p> </p>
 
 <p> <a href="paper_sample5.pdf">Identifying Group-wise Mixtures in High-Dimensional Multi-task Learning Model with an Application in Reconstructing Brain Subnetworks</a> <br>
-    <strong>Yisha Yao</strong>, Shiying Wang, Wei Dai, Zihuan Liu, Heping Zhang </p>
+    <strong>Yisha Yao</strong>, Wei Dai, Shiying Wang, Zihuan Liu, Heping Zhang </p>
 <p> </p>
  
-<p> <a href="">Identification and Validation of Super-Variants Involving Genes CPA3, SCFD2, LNX1, MAPT, NSF, KANSL1, and WNT3 for Human White Matter Microstructure</a> <br>
-    Shiying Wang, Ting Li, Wei Dai, <strong>Yisha Yao</strong>, Cai Li, Tengfei Li, Hongtu Zhu, Heping Zhang </p>  
-<p> </p>
-
 <p> <a href="https://arxiv.org/abs/2011.06765">Adaptive Estimation in High-Dimensional Additive Models with Multi-Resolution Group LASSO</a> <br>
     <strong>Yisha Yao</strong>, Cun-Hui Zhang <br>
     This paper is awarded 2021 IMS Hannan Graduate Student Travel Awards. </p>
@@ -23,8 +19,15 @@ layout: page
 <hr>
 
 ## Publications
+<p> <a href="https://pubmed.ncbi.nlm.nih.gov/38190638/">Identification and Validation of Supervariants Reveal Novel Loci Associated with Human White Matter Microstructure</a>  <em>Genome Research, Feburary 2024</em>  <br>
+     Shiying Wang, Ting Li, Bingxin Zhao, Wei Dai, <strong>Yisha Yao</strong>, Cai Li, Tengfei Li, Hongtu Zhu, Heping Zhang </p> 
+<p> </p> 
+
+<p> <a href="https://www.tandfonline.com/doi/full/10.1080/01621459.2023.2224412">Comments on “A Scale-Free Approach for False Discovery Rate Control in Generalized Linear Models”</a>  <em>Journal of the American Statistical Association, August 2023</em>  <br>
+     Sai Li, <strong>Yisha Yao</strong>, Cun-Hui Zhang </p> 
+<p> </p> 
   
-<p> <a href="https://www.medrxiv.org/content/10.1101/2022.05.05.22274731v1.full.pdf">Deep Learning Identified Genetic Variants for COVID-19 Related Mortality among 28,097 Affected Cases in UK Biobank</a>  <em>Genetic Epidemiology</em> (accepted) <br>
+<p> <a href="https://pubmed.ncbi.nlm.nih.gov/36691909/">Deep Learning Identified Genetic Variants for COVID-19 Related Mortality among 28,097 Affected Cases in UK Biobank</a>  <em>Genetic Epidemiology, April 2023</em> <br>
     Zihuan Liu, Wei Dai, Shiying Wang, <strong>Yisha Yao</strong>, Heping Zhang </p> 
 <p> </p> 
 
