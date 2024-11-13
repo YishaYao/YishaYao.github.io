@@ -22,7 +22,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Awards.md", title: "Awards"}
  
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "yy3381@columbia.edu"}
+ - {title: Mail, icon: envelope, url: "https://arxiv.org/html/2312.01232v1"}
+  #- {title: Mail, icon: envelope, url: "yy3381@columbia.edu"} https://librautoo.github.io/Projects_Gallary/
   #- {title: Github, icon: github, url: "https://github.com/YishaYao"}
 
 comments:
