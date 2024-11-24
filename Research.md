@@ -5,10 +5,13 @@ layout: page
 
 ## Preprints
 
-<p> <a href="https://arxiv.org/abs/2411.10646">Wasserstein Spatial Depth</a> <br>  <strong>Yisha Yao</strong> </p>
+<p> <a href="https://arxiv.org/abs/2411.10646">Wasserstein Spatial Depth</a> <br>François Bachoc, Alberto González-Sanz, Jean-Michel Loubes,  <strong>Yisha Yao</strong> </p>
 <p> </p>
 
-<p> <a href="https://arxiv.org/abs/2210.08348">A Note on Representations of <em>SL</em>n </a> <br>François Bachoc, Alberto González-Sanz, Jean-Michel Loubes, <strong>Yisha Yao</strong> </p>
+<p> <a href="https://pubmed.ncbi.nlm.nih.gov/38979294/">A Machine Learning and Drug Repurposing Approach to Target Ferroptosis in Colorectal Cancer Stratified by Sex and KRAS</a> <br> Hong Yan, Xinyi Shen, <strong>Yisha Yao</strong>, Sajid A Khan, Shuangge Ma, Caroline H Johnson </p>
+<p> </p>
+
+<p> <a href="https://arxiv.org/abs/2210.08348">A Note on Representations of <em>SL</em>n </a> <br><strong>Yisha Yao</strong> </p>
 <p> </p>
 
 <p> <a href="paper_sample5.pdf">Identifying Group-wise Mixtures in High-Dimensional Multi-task Learning Model with an Application in Reconstructing Brain Subnetworks</a> <br>
