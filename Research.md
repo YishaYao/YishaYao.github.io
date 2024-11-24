@@ -5,6 +5,9 @@ layout: page
 
 ## Preprints
 
+<p> <a href="https://arxiv.org/abs/2411.10646">Wasserstein Spatial Depth</a> <br>  <strong>Yisha Yao</strong> </p>
+<p> </p>
+
 <p> <a href="https://arxiv.org/abs/2210.08348">A Note on Representations of <em>SL</em>n </a> <br>  <strong>Yisha Yao</strong> </p>
 <p> </p>
 
